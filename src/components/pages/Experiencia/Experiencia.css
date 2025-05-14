@@ -1,12 +1,19 @@
 .barra{
     width: 50%;
+    background-color: rgb(96, 253, 48);
 }
 .barra2{
     width: 40%;
 }
 .barra3{
     width: 60%;
+    background-color: aquamarine;
 }
 .barra4{
     width: 85%;
+    background-color: coral;
 }
+.barra5{
+    width: 50%;
+    background-color: blueviolet;
+}   

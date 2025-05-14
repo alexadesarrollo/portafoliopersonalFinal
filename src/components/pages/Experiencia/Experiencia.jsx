@@ -2,6 +2,7 @@ import './Experiencia.css';
 export function Experiencia() {
     return (
         <>
+        <hr />
             <section className="container">
                 <div className="row">
                     <div className="col-12 text-center">
@@ -71,7 +72,7 @@ export function Experiencia() {
       <section className="container my-4">
                 <div className="row">
                     <div className="col-4 card p-3">
-                    <img src="../../../../src/assets/img/base-datos.jpg" alt="" className='img-fluid'/> 
+                    <img src="../../../../src/assets/img/maketacion.jpg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
                         <div class="progress-bar barra4">85%</div> 
@@ -79,13 +80,36 @@ export function Experiencia() {
                     
                     </div>
                     <div className="col-8 card p-3">
-                        <h2>HTML</h2>
+                        <h2>Maketacion Html & css</h2>
                         <ul>
                             <li>Etiquetas semánticas:header, main, section, article, footer, etc</li>
-                            <li></li>
-                            <li>CREATE TABLE, ALTER TABLE, DROP TABLE</li>
-                            <li>Autenticación y conexiones</li>
-                            <li>Claves primarias y foráneas</li>
+                            <li>Selectores y propiedades básicas.</li>
+                            <li>Flexbox: alineación y distribución de elementos.</li>
+                            <li>Separación de responsabilidades (HTML, CSS, JS).</li>
+                            <li>Compatibilidad entre navegadores.</li>                         
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+        <section className="container my-4">
+                <div className="row">
+                    <div className="col-4 card p-3">
+                    <img src="../../../../src/assets/img/github.jpg" alt="" className='img-fluid'/> 
+                    <br />
+                    <div class="progress" role="progressbar">
+                        <div class="progress-bar barra5">50%</div> 
+                    </div>
+                    
+                    </div>
+                    <div className="col-8 card p-3">
+                        <h2>Uso de GitHub</h2>
+                        <ul>
+                            <li>git config (usuario, correo, editor)</li>
+                            <li>Crear un repositorio</li>
+                            <li>Clonar un repositorio</li>
+                            <li>Hacer seguimiento de cambios</li>
+                            <li>Añadir cambios al area de cambios </li>
                         </ul>
                     </div>
                 </div>
