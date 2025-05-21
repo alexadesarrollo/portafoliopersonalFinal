@@ -12,78 +12,75 @@ export function Historia() {
                     </div>
                 </div>
             </section>
-
-            <section className="container my-6">
+            <section className="container my-4">
                 <div className="row">
-                    <div className="col-12 col-md-4">
+                    <div className="col-4 card p-3">
                         <img src="../../../../src/assets/img/netflix.jpg" alt="" className='img-fluid' />
+                        <br />
                     </div>
-                    <div className="col-12 col-md-6">
-                        <h2>Proyecto Replica de Netflix</h2>
-                        <p>
-                            El proyecto Réplica de Netflix consistió en la creación de una interfaz web inspirada en la popular plataforma de streaming, con el objetivo de practicar y aplicar conocimientos fundamentales de desarrollo front-end. Durante el desarrollo, se utilizaron enlaces () estratégicamente ubicados en la barra de navegación y en tarjetas de películas para permitir la transición entre páginas, como el inicio, detalles de contenido y formularios. Los formularios fueron claves para simular el proceso de inicio de sesión y registro, permitiendo la interacción del usuario mediante campos de entrada y botones. Además, se implementaron grillas (grid y flexbox) para organizar visualmente el contenido en filas y columnas, facilitando una estructura ordenada y responsiva. Estas herramientas trabajaron de forma conjunta para lograr una navegación fluida y una experiencia visual coherente, emulando la sensación de estar en una plataforma real. Este proyecto fortaleció habilidades clave en HTML, CSS y navegación entre vistas.
+                    <div className="col-8 card p-3">
+                        <h2>Netflix</h2>
+                        <p> El proyecto Réplica de Netflix consistió en la creación de una interfaz web inspirada en la popular plataforma de streaming, con el objetivo de practicar y aplicar conocimientos fundamentales de desarrollo front-end. Durante el desarrollo, se utilizaron enlaces () estratégicamente ubicados en la barra de navegación y en tarjetas de películas para permitir la transición entre páginas, como el inicio, detalles de contenido y formularios. Los formularios fueron claves para simular el proceso de inicio de sesión y registro, permitiendo la interacción del usuario mediante campos de entrada y botones. Además, se implementaron grillas (grid y flexbox) para organizar visualmente el contenido en filas y columnas, facilitando una estructura ordenada y responsiva. Estas herramientas trabajaron de forma conjunta para lograr una navegación fluida y una experiencia visual coherente, emulando la sensación de estar en una plataforma real. Este proyecto fortaleció habilidades clave en HTML, CSS y navegación entre vistas.
                         </p>
                     </div>
                 </div>
             </section>
-        <hr />
-            <section className="container">
+            <hr />
+            <section className="container my-4">
                 <div className="row">
-                    <div className="col-12 col-md-4">
-                        <h2>FLEXBOX</h2>
-                        <p>
-                            Flexbox, o el modelo de caja flexible, es una herramienta de diseño en CSS que facilita la creación de interfaces web más ordenadas, dinámicas y responsivas. A diferencia del modelo tradicional de caja, Flexbox permite distribuir el espacio de manera más eficiente entre los elementos dentro de un contenedor, adaptándose automáticamente a diferentes tamaños de pantalla sin necesidad de recurrir a técnicas más complejas como el uso intensivo de float o media queries. Su diseño se basa en un sistema de ejes: uno principal, que determina la dirección de los elementos, y uno transversal, que permite controlar su alineación vertical. A través de propiedades específicas tanto para el contenedor como para los elementos hijos, Flexbox ofrece un alto grado de control sobre el comportamiento de crecimiento, contracción, alineación y orden de los ítems. Esto lo convierte en una solución ideal para estructurar menús, galerías, tarjetas y otros componentes visuales de forma flexible y coherente. Además, su compatibilidad con herramientas visuales y su facilidad de prueba con los navegadores modernos lo han posicionado como una de las tecnologías más utilizadas en el desarrollo frontend actual.
-                        </p>
+                    <div className="col-4 card p-3">
+                        <img src="../../../../src/assets/img/princesas.webp" alt="" className='img-fluid' />
+                        <br />
                     </div>
-                    <div className="col-12 col-md-4 align-self-center">
-                        <img src="../../../../src/assets/img/flexbox.png" alt="" className='img-fluid' />
-                    </div>
-                </div>
-            </section>
-        <hr />
-            <section className="container my-3">
-                <div className="row">
-                    <div className="col-12 col-md-4">
-                        <img src="../../../../src/assets/img/maketacion.jpg" alt="" className='img-fluid' />
-                    </div>
-                    <div className="col-12 col-md-8">
-                        <h2>Maquetacion Html & css</h2>
-                        <p>
-                            El proyecto de Maquetación Web tuvo como propósito principal aprender y aplicar las técnicas esenciales para estructurar visualmente sitios web utilizando HTML y CSS. Durante el desarrollo, se trabajó en la creación de diseños responsivos y organizados mediante el uso de contenedores, secciones, columnas y filas. Se emplearon herramientas como Flexbox y Grid para distribuir los elementos de manera eficiente en diferentes resoluciones de pantalla, asegurando una experiencia de usuario fluida tanto en dispositivos móviles como en escritorio. Además, se integraron imágenes, tipografías y paletas de colores siguiendo principios básicos de diseño visual. Este ejercicio permitió comprender cómo transformar un diseño visual o boceto en una estructura web funcional, separando claramente el contenido (HTML) de la presentación (CSS). También se exploraron conceptos como semántica web, accesibilidad y uso adecuado de etiquetas. En conjunto, la maquetación web se consolidó como una habilidad clave en la construcción de páginas modernas, intuitivas y estéticamente atractivas.
+                    <div className="col-8 card p-3">
+                        <h2>Disney</h2>
+                        <p>Este proyecto consiste en el desarrollo de una página web inspirada en Disney, utilizando HTML y CSS con la técnica de Flexbox para la organización del contenido. El sitio presenta un diseño dinámico y visualmente atractivo, enfocado en mostrar personajes, películas y secciones temáticas de forma ordenada y adaptable. Flexbox permitió crear una distribución flexible y responsiva, facilitando el alineamiento y el espacio entre elementos sin perder la armonía del diseño. La página busca transmitir la magia y el estilo característico del universo Disney, con un enfoque en la experiencia del usuario, la estética y la navegación intuitiva. Este proyecto representa una propuesta creativa y funcional, ideal para expandirse hacia plataformas interactivas más completas en el futuro.
                         </p>
                     </div>
                 </div>
             </section>
-        <hr />
-            <section className="container">
+            <hr />
+            <section className="container my-4">
                 <div className="row">
-                    <div className="col-12 col-md-4">
-                        <h2>Base de Datos</h2>
-                        <p>
-                            Una base de datos es un sistema que permite almacenar, organizar y gestionar grandes volúmenes de información de manera estructurada y eficiente. Su propósito principal es facilitar el acceso, la manipulación y la actualización de datos, garantizando su integridad, seguridad y disponibilidad. Las bases de datos son utilizadas en prácticamente todos los sectores, desde aplicaciones web y móviles hasta sistemas bancarios, académicos y empresariales.
-                            Existen diferentes tipos de bases de datos, siendo las relacionales las más comunes, donde los datos se organizan en tablas y se relacionan entre sí mediante claves. Estas suelen gestionarse a través de un Sistema de Gestión de Bases de Datos (SGBD), como MySQL, PostgreSQL u Oracle, utilizando el lenguaje SQL para realizar consultas y operaciones. También existen modelos NoSQL, como MongoDB o Firebase, que ofrecen una estructura más flexible para trabajar con datos no tabulares, ideal para aplicaciones con grandes volúmenes de datos no estructurados o en tiempo real.
+                    <div className="col-4 card p-3">
+                        <img src="../../../../src/assets/img/zapatos1.webp" alt="" className='img-fluid' />
+                        <br />
+                    </div>
+                    <div className="col-8 card p-3">
+                        <h2>Tienda de zapatos</h2>
+                        <p> La tienda de zapatos Nike es un proyecto web desarrollado utilizando HTML y CSS, con el propósito de ofrecer una interfaz visualmente atractiva, moderna y funcional para la exhibición de productos. El sitio simula una tienda online donde se muestran diferentes modelos de calzado Nike, organizados de forma clara para facilitar la navegación del usuario. El diseño fue pensado para reflejar la identidad visual de la marca, utilizando colores, tipografías y estilos característicos. Además, se implementó un diseño responsive que permite visualizar la página correctamente desde distintos dispositivos, como computadoras, tablets o teléfonos móviles. Este proyecto representa una base sólida para una tienda virtual, enfocándose en la experiencia del usuario y en una presentación profesional del catálogo de productos.
                         </p>
                     </div>
-                    <div className="col-12 col-md-5 align-self-center">
+                </div>
+            </section>
+            <hr />
+            <section className="container my-4">
+                <div className="row">
+                    <div className="col-4 card p-3">
                         <img src="../../../../src/assets/img/base-datos.jpg" alt="" className='img-fluid' />
+                        <br />
                     </div>
-                </div>
-            </section>
-        <hr />
-            <section className="container my-3">
-                <div className="row">
-                    <div className="col-12 col-md-4">
-                        <img src="../../../../src/assets/img/ahorrandoapp.jpg" alt="" className='img-fluid' />
-                    </div>
-                    <div className="col-12 col-md-8 align-self-center">
-                        <h2>Ahorrando App</h2>
-                        <p>
-                            Ahorrando App es una aplicación web diseñada con el objetivo de fomentar la educación financiera personal mediante el control y visualización de los gastos e ingresos del usuario. El proyecto surgió como una propuesta práctica para desarrollar habilidades en desarrollo web, gestión de datos y experiencia de usuario. La interfaz permite registrar movimientos financieros, categorizarlos (alimentación, transporte, entretenimiento, etc.) y visualizar el saldo disponible en tiempo real. Se utilizaron formularios dinámicos, validaciones y almacenamiento local o en base de datos para garantizar la persistencia de la información. Además, se aplicaron principios de diseño responsivo para asegurar su uso en dispositivos móviles. La aplicación ofrece una visión clara del comportamiento financiero, facilitando la toma de decisiones y el hábito del ahorro. Ahorrando App no solo fue un ejercicio técnico, sino una herramienta funcional que promueve la responsabilidad financiera en el día a día. El proyecto integró HTML, CSS, JavaScript y bases de datos de manera coherente y efectiva.
+                    <div className="col-8 card p-3">
+                        <h2>Bodega</h2>
+                        <p> La base de datos "Bodega" fue desarrollada utilizando SQL con el objetivo de gestionar de forma eficiente la información relacionada con el inventario, productos, proveedores, clientes y movimientos de entrada y salida dentro de una bodega o almacén virtual. Este proyecto se centró en la creación de tablas interrelacionadas que permiten almacenar datos de manera estructurada y realizar consultas complejas para obtener información relevante. Se implementaron claves primarias y foráneas para garantizar la integridad referencial entre las tablas, así como procedimientos almacenados y triggers para automatizar ciertas operaciones, como el registro de entradas y salidas de productos. Además, se diseñaron vistas personalizadas para facilitar la visualización de datos específicos y se aplicaron técnicas de optimización para mejorar el rendimiento de las consultas. La base de datos "Bodega" no solo proporciona una solución técnica para la gestión de inventarios, sino que también sirve como un recurso valioso para la toma de decisiones informadas en el ámbito empresarial.
                         </p>
                     </div>
                 </div>
             </section>
-<hr />
+            <hr />
+            <hr />
+            <section className="container my-4">
+                <div className="row">
+                    <div className="col-4 card p-3">
+                        <img src="../../../../src/assets/img/ahorrandoapp.jpg" alt="" className='img-fluid' />
+                        <br />
+                    </div>
+                    <div className="col-8 card p-3">
+                        <h2>Ahorrando App</h2>
+                        <p> Ahorrando App es una aplicación web diseñada con el objetivo de fomentar la educación financiera personal mediante el control y visualización de los gastos e ingresos del usuario. El proyecto surgió como una propuesta práctica para desarrollar habilidades en desarrollo web, gestión de datos y experiencia de usuario. La interfaz permite registrar movimientos financieros, categorizarlos (alimentación, transporte, entretenimiento, etc.) y visualizar el saldo disponible en tiempo real. Se utilizaron formularios dinámicos, validaciones y almacenamiento local o en base de datos para garantizar la persistencia de la información. Además, se aplicaron principios de diseño responsivo para asegurar su uso en dispositivos móviles. La aplicación ofrece una visión clara del comportamiento financiero, facilitando la toma de decisiones y el hábito del ahorro. Ahorrando App no solo fue un ejercicio técnico, sino una herramienta funcional que promueve la responsabilidad financiera en el día a día. El proyecto integró HTML, CSS, JavaScript y bases de datos de manera coherente y efectiva.</p>
+                    </div>
+                </div>
+            </section>
         </>
     )
 }
